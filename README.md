@@ -22,3 +22,12 @@ Shared Preferences (suggested enhancement) – For persistent user data like fav
 Dart – Programming language used for all app logic.
 State Management – Basic state management using setState() and a global AppState class.
 Asset Management – Local image and data assets used for exercise images and instructions.
+
+
+
+![d9d65984-d27f-4ff4-9bf3-c2521c99a673](https://github.com/user-attachments/assets/52066ed5-3b0a-4a17-aa54-45c516fa0feb)
+![cae1c676-9903-4fea-a6e9-4ed14f1802d1](https://github.com/user-attachments/assets/0a8024c4-6403-430d-bb87-a663e73dc3bd)
+![c82d615c-0c9e-45fb-86f3-6296ec17f96f](https://github.com/user-attachments/assets/7e3baf48-11ec-4050-bb9f-d36633f4c94e)
+![b408a23e-f3e3-4874-b055-2be98e7388cc](https://github.com/user-attachments/assets/7e56b05d-eb58-43ed-9c4a-c49a02859935)
+![b6c2bbdc-66ac-4bb9-a67a-2bada177db24](https://github.com/user-attachments/assets/dcd703fa-3490-4f9d-a6d6-b01ab38bbe16)
+![4a217bcb-6b80-46dc-98d8-d53a36c22cfa](https://github.com/user-attachments/assets/6c3cdc86-fbc4-4959-b58b-89a2f8da0996)
